@@ -1,0 +1,15 @@
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\bin\Debug\net6.0\Vezbi od Class 4.exe
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\bin\Debug\net6.0\Vezbi od Class 4.deps.json
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\bin\Debug\net6.0\Vezbi od Class 4.runtimeconfig.json
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\bin\Debug\net6.0\Vezbi od Class 4.dll
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\bin\Debug\net6.0\Vezbi od Class 4.pdb
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.csproj.AssemblyReference.cache
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.AssemblyInfo.cs
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.dll
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\refint\Vezbi od Class 4.dll
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.pdb
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\Vezbi od Class 4.genruntimeconfig.cache
+C:\Users\Marko\Desktop\Second Semestar BACKend\C# Basic Classses\PMP\VEZBI\Vezbi od Class 4\Vezbi od Class 4\obj\Debug\net6.0\ref\Vezbi od Class 4.dll
